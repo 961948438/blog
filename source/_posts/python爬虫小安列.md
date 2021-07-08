@@ -4,7 +4,7 @@ date: 2020-05-24 20:24:41
 tags:
   - python 爬虫
 categories:
-  - spider
+  - python
 ---
 
 ### 一、爬取所有股票信息

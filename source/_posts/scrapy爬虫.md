@@ -4,7 +4,7 @@ date: 2021-05-22 12:15:46
 tags:
   - python 爬虫
 categories:
-  - spider
+  - python
 ---
 # scrapy爬虫所用api总结
 ## 以完成爬虫

@@ -4,7 +4,7 @@ date: 2021-03-28 18:09:18
 tags:
   - python 爬虫
 categories:
-  - spider
+  - python
 ---
 
 #### requests模块爬取所有基金
